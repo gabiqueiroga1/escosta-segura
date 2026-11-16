@@ -6,14 +6,6 @@ O Encosta Segura é uma aplicação desenvolvida em C# com Windows Forms para de
 
 Sistema desenvolvido com o objetivo de auxiliar no monitoramento de áreas suscetíveis a desastres naturais, contribuindo para a prevenção de acidentes e a proteção de pessoas que vivem em regiões de risco.
 
-##  Problema escolhido
-
-O projeto aborda a vulnerabilidade de comunidades localizadas próximas a encostas e córregos, que podem ser afetadas por deslizamentos de terra e alagamentos, especialmente durante períodos de chuvas intensas.
-
-A falta de monitoramento contínuo e de centralização das informações sobre as condições dessas áreas pode dificultar a identificação de situações de risco e a organização de ações preventivas.
-
-Diante desse cenário, o **Encosta Segura** propõe uma solução computacional para simular o monitoramento de variáveis ambientais, classificar níveis de risco e disponibilizar informações que auxiliem no acompanhamento dessas situações.
-
 ## Problema escolhido e Beneficiários
 
 O problema escolhido é a vulnerabilidade de comunidades que vivem próximas a encostas e córregos, estando sujeitas a deslizamentos de terra e alagamentos.
